@@ -35,6 +35,19 @@ p {
     margin-bottom: 15px;
 }
 
+footer {
+ background-color: #f2f2f2;
+ padding: 10px;
+ text-align: left;
+ position: absolute;
+ bottom: 0;
+ width: 100%;
+}
+
+footer p {
+ margin: 0;
+}
+
 aside {
     width: 48%;
     /* Adjust the width as needed, leaving some space for margins */
@@ -54,15 +67,4 @@ aside {
     }
 }
 
-footer {
- background-color: #f2f2f2;
- padding: 10px;
- text-align: left;
- position: absolute;
- bottom: 0;
- width: 100%;
-}
 
-footer p {
- margin: 0;
-}
